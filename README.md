@@ -17,37 +17,45 @@
 >
 > - **`pakchunkChrono`** includes a variety of **custom weapons** from older Fortnite seasons. Weapons tagged with *"OG"* may include original or modified **stats**, **visuals**, **sounds**, **models**, **rarities**, and more.
 
-### Assault Rifles
-- **`WID_Assault_Auto_Athena_C_Ore_T02`** - **Assault Rifle** *(Common)* *(OG)*
-- **`WID_Assault_Auto_Athena_UC_Ore_T03`** - **Assault Rifle** *(Uncommon)* *(OG)*
-- **`WID_Assault_Auto_Athena_R_Ore_T03`** - **Assault Rifle** *(Rare)* *(OG)*
-- **`WID_Assault_AutoHigh_Athena_VR_Ore_T03`** - **Assault Rifle** *(Epic)* *(OG)*
-- **`WID_Assault_AutoHigh_Athena_SR_Ore_T03`** - **Assault Rifle** *(Legendary)* *(OG)*
-- **`WID_Assault_SemiAuto_Athena_UR_Ore_T03`** - **Enhanced Burst Assault Rifle** *(Mythic)* *(Custom)*
-- **`WID_Assault_RedDotAR_Athena_UR`** - **The Foundation's MK-Seven Assault Rifle** *(Mythic)*
+---
 
-### Shotguns
-- **`WID_Shotgun_Standard_Athena_C_Ore_T03`** - **Pump Shotgun** *(Common)* *(OG)*
-- **`WID_Shotgun_Standard_Athena_UC_Ore_T03`** - **Pump Shotgun** *(Uncommon)* *(OG)*
-- **`WID_Shotgun_Standard_Athena_VR_Ore_T03`** - **Pump Shotgun** *(Epic)* *(OG)*
-- **`WID_Shotgun_Standard_Athena_SR_Ore_T03`** - **Pump Shotgun** *(Legendary)* *(OG)*
-- **`WID_Shotgun_Standard_Athena_UR_Ore_T03`** - **Pump Shotgun** *(Mythic)* *(OG)*
-- **`WID_Shotgun_Pump_Paprika_Athena_VR_Ore_T03`** - **Hammer Pump Shotgun** *(Epic)*
-- **`WID_Shotgun_Pump_Paprika_Athena_SR_Ore_T03`** - **Hammer Pump Shotgun** *(Legendary)*
-- **`WID_Shotgun_Pump_Paprika_Athena_UR_Ore_T03`** - **Peter Griffin's Hammer Pump Shotgun** *(Mythic)*
-- **`WID_Havoc_VR`** - **Havoc Pump Shotgun** *(Epic)*
-- **`WID_Havoc_SR`** - **Havoc Pump Shotgun** *(Legendary)*
-- **`WID_Havoc_UR`** - **Havoc Pump Shotgun** *(Mythic)*
-- **`WID_Thunder_VR`** - **Thunder Burst Shotgun** *(Epic)*
-- **`WID_Thunder_SR`** - **Thunder Burst Shotgun** *(Legendary)*
-- **`WID_Thunder_UR`** - **Thunder Burst Shotgun** *(Mythic)*
+> ### Assault Rifles
+- **Assault Rifle `WID_Assault_Auto_Athena_C_Ore_T02`** *(Common) (OG)*
+- **Assault Rifle `WID_Assault_Auto_Athena_UC_Ore_T03`** *(Uncommon) (OG)*
+- **Assault Rifle `WID_Assault_Auto_Athena_R_Ore_T03`** *(Rare) (OG)*
+- **Assault Rifle `WID_Assault_AutoHigh_Athena_VR_Ore_T03`** *(Epic) (OG)*
+- **Assault Rifle `WID_Assault_AutoHigh_Athena_SR_Ore_T03`** *(Legendary) (OG)*
+- **Enhanced Burst Assault Rifle `WID_Assault_SemiAuto_Athena_UR_Ore_T03`** *(Mythic) (Custom)*
+- **The Foundation's MK-Seven Assault Rifle `WID_Assault_RedDotAR_Athena_UR`** *(Mythic)*
 
-### Pistols
-- **`WID_Pistol_Chrono_Athena_VR`** - **Mammoth Pistol** *(Epic)*
-- **`WID_Pistol_Chrono_Athena_SR`** - **Mammoth Pistol** *(Legendary)*
-- **`WID_Pistol_Chrono_Athena_UR`** - **Baron's Mammoth Pistol** *(Mythic)*
+---
 
-### Snipers
-- **`WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03`** - **Bolt-Action Sniper Rifle** *(Epic)*
-- **`WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03`** - **Bolt-Action Sniper Rifle** *(Legendary)*
-- **`WID_Sniper_Heavy_Athena_UR_Ore_T03`** - **Enhanced Heavy Sniper Rifle** *(Mythic)* *(Custom)*
+> ### Shotguns
+- **Pump Shotgun `WID_Shotgun_Standard_Athena_C_Ore_T03`** *(Common) (OG)*
+- **Pump Shotgun `WID_Shotgun_Standard_Athena_UC_Ore_T03`** *(Uncommon) (OG)*
+- **Pump Shotgun `WID_Shotgun_Standard_Athena_VR_Ore_T03`** *(Epic) (OG)*
+- **Pump Shotgun `WID_Shotgun_Standard_Athena_SR_Ore_T03`** *(Legendary) (OG)*
+- **Pump Shotgun `WID_Shotgun_Standard_Athena_UR_Ore_T03`** *(Mythic) (OG)*
+- **Hammer Pump Shotgun `WID_Shotgun_Pump_Paprika_Athena_VR_Ore_T03`** *(Epic)*
+- **Hammer Pump Shotgun `WID_Shotgun_Pump_Paprika_Athena_SR_Ore_T03`** *(Legendary)*
+- **Peter Griffin's Hammer Pump Shotgun `WID_Shotgun_Pump_Paprika_Athena_UR_Ore_T03`** *(Mythic)*
+- **Havoc Pump Shotgun `WID_Havoc_VR`** *(Epic)*
+- **Havoc Pump Shotgun `WID_Havoc_SR`** *(Legendary)*
+- **Havoc Pump Shotgun `WID_Havoc_UR`** *(Mythic)*
+- **Thunder Burst Shotgun `WID_Thunder_VR`** *(Epic)*
+- **Thunder Burst Shotgun `WID_Thunder_SR`** *(Legendary)*
+- **Thunder Burst Shotgun `WID_Thunder_UR`** *(Mythic)*
+
+---
+
+> ### Pistols
+- **Mammoth Pistol `WID_Pistol_Chrono_Athena_VR`** *(Epic)*
+- **Mammoth Pistol `WID_Pistol_Chrono_Athena_SR`** *(Legendary)*
+- **Baron's Mammoth Pistol `WID_Pistol_Chrono_Athena_UR`** *(Mythic)*
+
+---
+
+> ### Snipers
+- **Bolt-Action Sniper Rifle `WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03`** *(Epic)*
+- **Bolt-Action Sniper Rifle `WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03`** *(Legendary)*
+- **Enhanced Heavy Sniper Rifle `WID_Sniper_Heavy_Athena_UR_Ore_T03`** *(Mythic) (Custom)*
