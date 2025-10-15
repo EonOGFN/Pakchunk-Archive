@@ -35,7 +35,7 @@
 - **Pump Shotgun `WID_Shotgun_Standard_Athena_UC_Ore_T03`** *(Uncommon) (OG)*
 - **Pump Shotgun `WID_Shotgun_Standard_Athena_VR_Ore_T03`** *(Epic) (OG)*
 - **Pump Shotgun `WID_Shotgun_Standard_Athena_SR_Ore_T03`** *(Legendary) (OG)*
-- **Pump Shotgun `WID_Shotgun_Standard_Athena_UR_Ore_T03`** *(Mythic) (OG)*
+- **Pump Shotgun `WID_Shotgun_Standard_Athena_UR_Ore_T03`** *(Mythic) (Custom) (OG)*
 - **Hammer Pump Shotgun `WID_Shotgun_Pump_Paprika_Athena_VR_Ore_T03`** *(Epic)*
 - **Hammer Pump Shotgun `WID_Shotgun_Pump_Paprika_Athena_SR_Ore_T03`** *(Legendary)*
 - **Peter Griffin's Hammer Pump Shotgun `WID_Shotgun_Pump_Paprika_Athena_UR_Ore_T03`** *(Mythic)*
