@@ -1,8 +1,8 @@
 ## ++Eon+Release-12.41-CL-12905909-Windows
 
-- **https://gofile.io/d/1kojr2 pakchunkChrono-WindowsClient.pak** (45.3 MB)
-- **https://gofile.io/d/1kojr2 EonGameAssets.pak** (898 MB)
-- **https://gofile.io/d/1kojr2 EonCosmetics.pak** (1.24 GB)
+- **https://gofile.io/d/UFyaFq pakchunkChrono-WindowsClient.pak** (45.3 MB)
+- **https://gofile.io/d/UFyaFq EonGameAssets.pak** (898 MB)
+- **https://gofile.io/d/UFyaFq EonCosmetics.pak** (1.24 GB)
 
 ## ++Eon+Release-17.50-CL-17388565-Windows
 
